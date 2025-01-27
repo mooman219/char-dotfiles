@@ -1,0 +1,6 @@
+@theme "/home/kaldir/.cache/wal/colors-rofi-dark.rasi"
+
+element-text {
+    background-color: inherit;
+    text-color: inherit;
+}
